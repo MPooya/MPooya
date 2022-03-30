@@ -1,5 +1,6 @@
 - Im MPooya!
-- 👀 Learning python and c++
+- Minecraft(Spigot) & Discord Bot Developer (Java)
+- 👀 Learning C++
 - 📫 Its my email Pooyapoorarshad@gmail.com
 
 <!---
